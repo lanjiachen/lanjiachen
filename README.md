@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ![Metrics](https://metrics.lecoq.io/lanjiachen?template=classic&config.timezone=Asia%2FShanghai)
 ![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lanjiachen&show_icons=true&count_private=true&theme=gotham)
-ID&layout=compact&hide_border=true&langs_count=10)
