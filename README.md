@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/lanjiachen?template=classic&config.timezone=Asia%2FShanghai)
+![info](https://github-readme-stats.vercel.app/api?username=lanjiachen&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lanjiachen&show_icons=true&count_private=true&theme=gotham)
